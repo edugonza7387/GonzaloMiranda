@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hola Coder! Soy Gonzalo Miranda!</Text>
-      <StatusBar style="auto" />
+      <StatusBar style="timeroman" />
     </View>
   );
 }
